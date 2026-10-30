@@ -1,0 +1,6 @@
+{
+  "name": "Aureon Motors",
+  "description": "Discover Aureon Motors, where precision engineering, timeless automotive design, and the art of performance come together.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
